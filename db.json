@@ -1,11 +1,11 @@
 {
   "address": [
     {
-      "post": "https://dashboard.neticoapp.space/postN.php",
+      "post": "https://app.neticoapp.ir/postN.php",
       "version": "12.0",      
       "timeData": 10,
-      "server": "https://dashboard.neticoapp.space/server_none.png",
-      "user": "https://dashboard.neticoapp.space/user_ban.png"
+      "server": "https://app.neticoapp.ir/server_none.png",
+      "user": "https://app.neticoapp.ir/user_ban.png"
     }
   ]
 }
